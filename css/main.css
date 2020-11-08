@@ -44,3 +44,12 @@ img {
     padding-top: 50px;
     padding-bottom: 50px;
 }
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub { 
+  top: 0.4em; 
+}
